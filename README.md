@@ -40,6 +40,7 @@ Through this project, I strengthened my expertise in:
 
 ## 📸 Dashboard Preview  
 ![Business Insights 360 Dashboard](https://github.com/RahamanShaikData/Business-Insights-360/blob/main/Screenshot%20Of%20Main%20Thing.png)  
+(https://github.com/RahamanShaikData/Business-Insights-360/blob/main/Home%20Page%20of%20project.png)
 
 ---
 
