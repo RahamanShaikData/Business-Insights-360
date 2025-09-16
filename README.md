@@ -47,3 +47,17 @@ Through this project, I strengthened my expertise in:
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahaman-shaik02/)  
 - 📧 Email: rahaman.shaik7891@.com  
 
+
+**NOTE**
+  # Project Overview
+
+**Note:**  
+This repository showcases my **Power BI project** through screenshots of the dashboards, charts, and visualizations.  
+
+The original `.pbix` file contains high-resolution images, multiple views, and detailed charts, which made the file size too large to upload directly to GitHub. To ensure accessibility, I have provided screenshots demonstrating the key insights, data analysis, and interactive design of the project.  
+
+**Acknowledgements:**  
+Some icons, images, and stickers used in this project are sourced from [FlatIcon](https://www.flaticon.com/) and [Freepik](https://www.freepik.com/) under their free license with proper attribution.  
+
+The full `.pbix` file can be shared upon request. Please feel free to reach out if you would like access to the complete project file.
+
