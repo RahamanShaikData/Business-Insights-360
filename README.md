@@ -36,3 +36,14 @@ Through this project, I strengthened my expertise in:
 ---
 
 ## 📂 Repository Structure  
+---
+
+## 📸 Dashboard Preview  
+![Business Insights 360 Dashboard]()  
+
+---
+
+## 🔗 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 Email: your-email@example.com  
+
