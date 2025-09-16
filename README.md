@@ -39,11 +39,11 @@ Through this project, I strengthened my expertise in:
 ---
 
 ## 📸 Dashboard Preview  
-![Business Insights 360 Dashboard]()  
+![Business Insights 360 Dashboard](https://github.com/RahamanShaikData/Business-Insights-360/blob/main/Screenshot%20Of%20Main%20Thing.png)  
 
 ---
 
 ## 🔗 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: your-email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahaman-shaik02/)  
+- 📧 Email: rahaman.shaik7891@.com  
 
